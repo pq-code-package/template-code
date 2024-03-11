@@ -4,4 +4,4 @@
 # Last matching pattern has precedence
 
 # Default owner
-*       @pqcp-hackers
+* @pqcp-hackers
