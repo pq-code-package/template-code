@@ -1,7 +1,7 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 [//]: # (TODO Customize PR template)
 
-[//]: # (See https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+[//]: # (See https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository )
 
 <!-- Please give a brief explanation of the purpose of this pull request. -->
 
