@@ -1,12 +1,8 @@
-[//]: # (SPDX-License-Identifier: CC-BY-4.0)
-[//]: # (TODO Customize Issue templates)
-
-[//]: # (See https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 ---
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -27,12 +23,16 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following information):**
- - OS: [e.g. Ubuntu 20]
- - OpenSSL version [e.g., 3.0.2]
- - Compiler version used [e.g., clang 9.0.0]
- - Build variables used [e.g., "-DOQS_ALGS_ENABLED=STD"]
- - liboqs version [e.g. 0.7.2 or main branch]
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
